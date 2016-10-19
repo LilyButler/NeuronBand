@@ -2,11 +2,12 @@
 Neural circuits, neuronal conductivity and technologies
 
 
-# NeuronC
+<h2> NeuronC </h2>
 NeuronC is computer programm for modeling simulating large neural circuits.
 Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
 
-Installation
+
+<h2> Installation </h2>
 
 1. NeuronC runs under virtually any Unix system, and is currently developed under Linux
 2. <a href="http://vrc.med.upenn.edu/files/nc.tgz"> Download </a> the NeuronC
