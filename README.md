@@ -19,4 +19,6 @@ Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
 
 <h2> RUN </h2>
 In order to run the calculation necessary to make following adjustments in the program:
+<p>
 1. Open the `makefile` ```[...nc/src]& vim makefile```
+</p>
