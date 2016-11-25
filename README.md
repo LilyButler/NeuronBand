@@ -19,7 +19,11 @@ Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
 
 <div class="one-third column">
 <h3 class="offset-by-one"> RUN </h3></div>
+<div class="two-thirds column">
+<a name="RUN"> </a>
+<p>
 In order to run the calculation necessary to make following adjustments in the program:
 
 1. Open the `makefile` ```[...nc/src]& vim makefile```
 
+</p>
