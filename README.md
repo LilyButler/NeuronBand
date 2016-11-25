@@ -24,5 +24,5 @@ Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
 
 In order to run the calculation necessary to make following adjustments in the program:
 
-1. Open the <kbd>`makefile [...nc/src]& vim makefile </kbd>
+1. Open the <kbd> makefile [...nc/src]& vim makefile </kbd>
 
