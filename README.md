@@ -17,7 +17,8 @@ Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
 2. <a href="http://vrc.med.upenn.edu/files/nc.tgz"> Download </a> the NeuronC
 3. Unzip the folder and install on you system
 
-<h3> RUN </h3>
+<div class="one-third column">
+<h3 class="offset-by-one"> RUN </h3></div>
 In order to run the calculation necessary to make following adjustments in the program:
 
 1. Open the `makefile` ```[...nc/src]& vim makefile```
