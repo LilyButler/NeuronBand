@@ -9,10 +9,16 @@ For modeling of neural circuits is advantageous to use the program which was cre
 NeuronC is computer programm for modeling simulating large neural circuits.
 Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
 </p>
-<div class="one-third column"><h3 class="offset-by-one">Install</h3></div>
-<h3 class="offset-by-one">Install</h3>
-<h2> Installation </h2>
-1. NeuronC runs under virtually any Unix system, and is currently developed under Linux
+<div class="one-third column"><h3 class="offset-by-one">Installation</h3></div>
+<div class="two-thirds column">
+      <a name="installayion"></a>
+      <ol>
+        <li>NeuronC runs under virtually any Unix system, and is currently developed under Linux</li>
+        <li><a href="http://vrc.med.upenn.edu/files/nc.tgz">Download</a> the NeuronC</li>
+        <li>Unzip the folder and install on you system</li>
+      </ol>
+</div>
+1. 
 2. <a href="http://vrc.med.upenn.edu/files/nc.tgz">Download</a> the NeuronC
 3. Unzip the folder and install on you system
 
