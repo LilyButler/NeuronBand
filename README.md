@@ -21,10 +21,10 @@ Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
 <h3 class="offset-by-one"> RUN </h3></div>
 <div class="two-thirds column">
 <a name="RUN"> </a>
+<ol>
+<li> In order to run the calculation necessary to make following adjustments in the program: </li>
 
-In order to run the calculation necessary to make following adjustments in the program:
-
-1. Open the `makefile` <kbd> [...nc/src]& vim makefile </kbd>
-2. Change the <kbd> SHELL=/bin/csh </kbd> on <kbd> SHELL=/bin/bash </kbd>
-
+<li> 1. Open the `makefile` <kbd> [...nc/src]& vim makefile </kbd> </li>
+<li> 2. Change the <kbd> SHELL=/bin/csh </kbd> on <kbd> SHELL=/bin/bash </kbd> </li>
+</ol>
 </div>
