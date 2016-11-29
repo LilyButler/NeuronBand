@@ -1,7 +1,8 @@
 # NeuronBang
 This project is about the neural circuits, neuronal conductivity and technologies.
 For modeling of neural circuits is advantageous to use the program which was created by the Penn State University.
-
+<div class="sexteen columns">
+<hr> </div>
 
 <h2> NeuronC </h2>
 <p>
@@ -17,17 +18,14 @@ Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
 2. <a href="http://vrc.med.upenn.edu/files/nc.tgz"> Download </a> the NeuronC
 3. Unzip the folder and install on you system
 
-<div class="sexteen columns">
-<hr> </div>
-
 <div class="one-third column">
 <h3 class="offset-by-one"> RUN </h3></div>
 <div class="two-thirds column">
 <a name="RUN"> </a>
-<ol>
-<p> In order to run the calculation necessary to make following adjustments in the program: </p>
+
+<p>In order to run the calculation necessary to make following adjustments in the program: </p>
 
 <li> Open the makefile <kbd> [...nc/src]& vim makefile </kbd> </li>
 <li> Change the <kbd> SHELL=/bin/csh </kbd> on <kbd> SHELL=/bin/bash </kbd> </li>
-</ol>
+
 </div>
