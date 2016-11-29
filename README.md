@@ -2,7 +2,6 @@
 This project is about the neural circuits, neuronal conductivity and technologies.
 For modeling of neural circuits is advantageous to use the program which was created by the Penn State University.
 <div> <hr> </div>
-<li></li>
 
 <h2> NeuronC </h2>
 <p>
