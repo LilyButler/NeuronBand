@@ -27,3 +27,4 @@ In order to run the calculation necessary to make following adjustments in the p
 1. Open the `makefile` <kbd> [...nc/src]& vim makefile </kbd>
 2. Change the <kbd> SHELL=/bin/csh </kbd> on <kbd> SHELL=/bin/bash </kbd>
 
+</div>
