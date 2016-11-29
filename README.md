@@ -17,7 +17,7 @@ Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
 2. <a href="http://vrc.med.upenn.edu/files/nc.tgz"> Download </a> the NeuronC
 3. Unzip the folder and install on you system
 
-
+<pre class="htmlize" id="sample-project">
 
 <h3> RUN </h3>
 
