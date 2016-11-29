@@ -11,14 +11,13 @@ Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
 </p>
 <h2> Installation </h2>
 1. NeuronC runs under virtually any Unix system, and is currently developed under Linux
-2. <a href="http://vrc.med.upenn.edu/files/nc.tgz"> Download </a> the NeuronC
+2. <a href="http://vrc.med.upenn.edu/files/nc.tgz">Download</a> the NeuronC
 3. Unzip the folder and install on you system
 
 <h3> RUN </h3>
 <p>In order to run the calculation necessary to make following adjustments in the program:</p>
 <ol>
-<li>
-Open the <span class="string"> "makefile" </span> (for example <kbd> [...nc/src]& vim makefile </kbd> ) </li> 
+<li> Open the <span class="string"> "makefile" </span> (for example <kbd> [...nc/src]& vim makefile </kbd> ) </li> 
 <li> Change the <kbd> SHELL=/bin/csh </kbd> on <kbd> SHELL=/bin/bash </kbd> make this change to all makefiles program </li>
 
 </ol>
