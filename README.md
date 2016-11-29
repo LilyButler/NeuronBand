@@ -24,6 +24,6 @@ Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
 <p>In order to run the calculation necessary to make following adjustments in the program:</p>
 <ol>
 <li> Open the makefile (for example <kbd> [...nc/src]& vim makefile </kbd> ) </li> 
-<li> Change the <kbd> SHELL=/bin/csh </kbd> on <kbd> SHELL=/bin/bash </kbd> make this change to all files </li>
+<li> Change the <kbd> SHELL=/bin/csh </kbd> on <kbd> SHELL=/bin/bash </kbd> make this change to all makefiles program </li>
 
 </ol>
