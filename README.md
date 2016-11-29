@@ -24,5 +24,5 @@ Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
 <li> Open the <span class="string"> "makefile" </span> (for example <kbd> [...nc/src]& vim makefile </kbd> ) </li> 
 <li> Change the <kbd> SHELL=/bin/csh </kbd> on <kbd> SHELL=/bin/bash </kbd> make this change to all makefiles program </li>
 <li> More please replace the following variables <kbd>CFLAGS = -Ofast</kbd> on <kbd># CFLAGS = -Ofast</kbd>
-and <kbd># CFLAGS = -O3</kbd> on <kbd>CFLAGS = -O3 -fPIC</kbd> in all makefiles program
+and <kbd># CFLAGS = -O3</kbd> on <kbd>CFLAGS = -O3 -fPIC</kbd> into all makefiles program
 </ol>
