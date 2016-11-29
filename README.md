@@ -18,10 +18,6 @@ Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
         <li>Unzip the folder and install on you system</li>
       </ol>
 </div>
-1. 
-2. <a href="http://vrc.med.upenn.edu/files/nc.tgz">Download</a> the NeuronC
-3. Unzip the folder and install on you system
-
 <h3> RUN </h3>
 <p>In order to run the calculation necessary to make following adjustments in the program:</p>
 <ol>
