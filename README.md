@@ -1,8 +1,8 @@
 # NeuronBang
 This project is about the neural circuits, neuronal conductivity and technologies.
 For modeling of neural circuits is advantageous to use the program which was created by the Penn State University.
-<pre class="htmlize" id="sample-project">
 <div class="sixteen columns"><hr></div>
+<pre class="htmlize" id="sample-project">
 <h2> NeuronC </h2>
 <p>
 <img style="-webkit-user-select: none; cursor: zoom-in;" src="http://retina.anatomy.upenn.edu/~rob/spike_gen.png" alt="An array of neurons" title="NeuronC program" align="right" data-canonical-src="http://retina.anatomy.upenn.edu/~rob/spike_gen.png" style="max-width:10%;" width="199" height="199">
