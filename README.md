@@ -23,9 +23,9 @@ Developed by <a href="http://retina.anatomy.upenn.edu/~rob/"> Robert Smith </a>
 <div class="two-thirds column">
 <a name="RUN"> </a>
 
-<p>In order to run the calculation necessary to make following adjustments in the program: </p>
-
+In order to run the calculation necessary to make following adjustments in the program:
+<ol>
 <li> Open the makefile <kbd> [...nc/src]& vim makefile </kbd> </li>
 <li> Change the <kbd> SHELL=/bin/csh </kbd> on <kbd> SHELL=/bin/bash </kbd> </li>
-
+</ol>
 </div>
